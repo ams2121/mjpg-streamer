@@ -1,3 +1,6 @@
+Updated 30 Dec 2023 - modified the build path in efforts to get the RPI plugin to build on latest version of RPI
+
+
 mjpg-streamer
 =============
 
